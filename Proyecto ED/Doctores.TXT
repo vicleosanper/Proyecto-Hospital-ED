@@ -1,0 +1,40 @@
+
+Cedula: 1432576
+Apellidos: Guerrero
+Nombre: Cynthia
+Celular: 14325678
+Consultorio: 3
+Dias en los que atiende el doctor: ,MARTES,JUEVES
+Especialidad: Cardiologia
+
+Cedula: 3245675
+Apellidos: Perez
+Nombre: Samara
+Celular: 67548092
+Consultorio: 2
+Dias en los que atiende el doctor: ,MARTES,JUEVES
+Especialidad: Cardiologia
+
+Cedula: 3945678
+Apellidos: Perez
+Nombre: Rodrigo
+Celular: 13254697
+Consultorio: 3
+Dias en los que atiende el doctor: LUNES,MIERCOLES
+Especialidad: Cardiologia
+
+Cedula: 7547654
+Apellidos: Sasso
+Nombre: Zaid
+Celular: 23451645
+Consultorio: 2
+Dias en los que atiende el doctor: ,MARTES,JUEVES
+Especialidad: Nutricion
+
+Cedula: 12345678
+Apellidos: Sanchez
+Nombre: Luis
+Celular: 35467897
+Consultorio: 2
+Dias en los que atiende el doctor: ,MARTES,JUEVES
+Especialidad: Cardiologia

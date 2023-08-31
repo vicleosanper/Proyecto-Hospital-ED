@@ -1,0 +1,90 @@
+
+Apellidos: Campos
+Nombre: Manuel
+Edad: 20
+Fecha de nacimiento:07/06/2000
+Genero: Masculino
+Primer medico que lo atendio: Cynthia
+Referencia: Sus padres
+Telefono: 21345679
+
+Apellidos: De la Rosa
+Nombre: Cecilia
+Edad: 20
+Fecha de nacimiento:07/06/2000
+Genero: Femenino
+Primer medico que lo atendio: Samara
+Referencia: Sus padres
+Telefono: 32145679
+
+Apellidos: Leticia
+Nombre: Alicia
+Edad: 19
+Fecha de nacimiento:07/06/2000
+Genero: Femenino
+Primer medico que lo atendio: Rodrigo
+Referencia: Sus papás
+Telefono: 32456789
+
+Apellidos: Padilla
+Nombre: Antonio
+Edad: 20
+Fecha de nacimiento:07/06/2000
+Genero: Masculino
+Primer medico que lo atendio: Rodrigo
+Referencia: Sus padres
+Telefono: 32456789
+
+Apellidos: Perez
+Nombre: Chely
+Edad: 18
+Fecha de nacimiento:07/06/2001
+Genero: Femenino
+Primer medico que lo atendio: Rodrigo
+Referencia: Su madre
+Telefono: 34562134
+
+Apellidos: Perez
+Nombre: Nelly
+Edad: 30
+Fecha de nacimiento:07/06/1990
+Genero: Femenino
+Primer medico que lo atendio: Samara
+Referencia: Sus amigos y familiares
+Telefono: 32546780
+
+Apellidos: Sanchez
+Nombre: Abel
+Edad: 30
+Fecha de nacimiento:07/06/1990
+Genero: Masculino
+Primer medico que lo atendio: Cynthia
+Referencia: Sus hermanos
+Telefono: 21456789
+
+Apellidos: Sanchez
+Nombre: Luis
+Edad: 22
+Fecha de nacimiento:07/06/1998
+Genero: Masculino
+Primer medico que lo atendio: Rodrigo
+Referencia: Sus hermanos
+Telefono: 34256756
+
+Apellidos: Sanchez
+Nombre: Alexa
+Edad: 19
+Fecha de nacimiento:07/06/2001
+Genero: Femenino
+Primer medico que lo atendio: Rodrigo
+Referencia: Sus padres
+Telefono: 32456765
+
+Apellidos: Viramontes
+Nombre: Said
+Edad: 19
+Fecha de nacimiento:07/06/2000
+Genero: Masculino
+Primer medico que lo atendio: Zaid
+Referencia: Sus padres
+Telefono: 23414354

@@ -1,0 +1,22 @@
+
+MES: noviembre
+Semana no.3: 
+FECHAS:
+es, 9 de junio de 2020
+Hora: 04:00 p. m.
+Numero de cita: 0
+Consultorio: 2
+Especialidad: Cardiologia
+Nombre del medico: Luis
+Nombre del paciente: Antonio
+Telefono del Paciente: 56567687
+Estado de la cita: Se llevo a cabo
+martes, 9 de junio de 2020
+Hora: 02:40 p. m.
+Numero de cita: 1
+Consultorio: 2
+Especialidad: Cardiologia
+Nombre del medico: Samara
+Nombre del paciente: Cecilia
+Telefono del Paciente: 65765676
+Estado de la cita: Cancelada
